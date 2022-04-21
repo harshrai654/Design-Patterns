@@ -1,0 +1,6 @@
+package Strategy;
+
+class Main {
+    
+    
+}
