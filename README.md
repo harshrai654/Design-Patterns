@@ -6,9 +6,16 @@ Video Reference: [Design Patterns in Object Oriented Programming](https://www.yo
 
 ## Patterns
 
-<ol>
-  <li>Strategy Pattern</li>
-  <li>Observer Pattern</li>
-  <li>Decorator Pattern</li>
-  <li>Factory Pattern</li>
-</ol>
+1. [Strategy Pattern](/Strategy/README.md)
+2. [Observer Pattern](/Observer/README.md)
+3. [Decorator Pattern](/Decorator/README.md)
+4. [Factory Pattern](/Factory/README.md)
+
+## OO Principles
+
+-   **Encapsulate what varies.**
+-   **Favour Composition over Inheritence**
+-   **Program to interfaces not implementations.**
+-   **Strive for loosly coupled designs between objects that interact.**
+-   **Classes should be open for extension but closed for modification.**
+-   **Depend on abstractions. Do not depend on concrete classes.**
