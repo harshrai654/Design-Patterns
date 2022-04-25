@@ -11,6 +11,7 @@ Video Reference: [Design Patterns in Object Oriented Programming](https://www.yo
 3. [Decorator Pattern](/Decorator/README.md)
 4. [Factory Pattern](/Factory/README.md)
 5. [Singleton Pattern](/Singleton/README.md)
+6. [Abstract Factory Pattern](/AbstractFactory/README.md)
 
 ## OO Principles
 
