@@ -14,12 +14,14 @@ Video Reference: [Design Patterns in Object Oriented Programming](https://www.yo
 6. [Abstract Factory Pattern](/AbstractFactory/README.md)
 7. [Command Pattern](/Command/README.md)
 8. [Adapter Pattern](/Adapter/README.md)
+9. [Facade Pattern](/Facade/README.md)
 
 ## OO Principles
 
--   **Encapsulate what varies.**
--   **Favour Composition over Inheritence**
--   **Program to interfaces not implementations.**
--   **Strive for loosly coupled designs between objects that interact.**
--   **Classes should be open for extension but closed for modification.**
--   **Depend on abstractions. Do not depend on concrete classes.**
+- **Encapsulate what varies.**
+- **Favour Composition over Inheritence**
+- **Program to interfaces not implementations.**
+- **Strive for loosly coupled designs between objects that interact.**
+- **Classes should be open for extension but closed for modification.**
+- **Depend on abstractions. Do not depend on concrete classes.**
+- **Principle of Least Knowledge: talk only to your immediate friends (Reduces Dependencies)**
