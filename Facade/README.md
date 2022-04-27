@@ -6,3 +6,5 @@ of sub-system easier.**
 
 *Keep your circle of friends(Known Classes) Small.*
 
+![UML Diagram for Facade Pattern](/Facade/UML.jpeg "UML Diagram for Facade Pattern")
+
