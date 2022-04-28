@@ -15,6 +15,7 @@ Video Reference: [Design Patterns in Object Oriented Programming](https://www.yo
 7. [Command Pattern](/Command/README.md)
 8. [Adapter Pattern](/Adapter/README.md)
 9. [Facade Pattern](/Facade/README.md)
+10. [Proxy Pattern](/Proxy/README.md)
 
 ## OO Principles
 
